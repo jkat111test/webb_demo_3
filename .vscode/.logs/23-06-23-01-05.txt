@@ -102,3 +102,14 @@
 ----------------------------------------
 01:08:22 Document switched to: c:\Users\johan\OneDrive\Dokument\Webbuppgifter\webb_demo_3\index.html
 ----------------------------------------
+
+01:08:51 000:000 > s
+01:08:51 000:001 > sd
+01:08:52 000:002 > sda
+01:08:52 000:003 > sdad
+01:08:52 000:004 > sdadd
+01:08:52 000:005 > sdadds
+01:08:52 000:006 > sdaddsa
+01:08:52 000:007 > sdaddsad
+01:08:52 000:008 > sdaddsads
+01:08:52 000:009 > sdaddsadsa
