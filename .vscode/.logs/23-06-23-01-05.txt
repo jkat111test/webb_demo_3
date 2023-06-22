@@ -1,0 +1,104 @@
+23-06-23 01:05 Session started
+----------------------------------------
+01:05:47 Document switched to: c:\Users\johan\OneDrive\Dokument\Webbuppgifter\webb_demo_3\index.html
+----------------------------------------
+01:06:46 Document switched to: c:\Users\johan\OneDrive\Dokument\Webbuppgifter\webb_demo_3\css\styles.css
+----------------------------------------
+01:06:48 Document switched to: c:\Users\johan\OneDrive\Dokument\Webbuppgifter\webb_demo_3\index.html
+----------------------------------------
+01:06:50 000:000 > h
+01:06:50 000:001 > ht
+01:06:50 000:002 > htm
+01:06:50 000:003 > html
+01:06:51 000:000 > <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+01:06:55 008:004 > h
+01:06:55 008:005 > he
+01:06:55 008:006 > hea
+01:06:55 008:007 > head
+01:06:55 008:008 > heade
+01:06:55 008:009 > header
+01:06:56 008:004 > <header></header>
+
+01:06:58 009:008 > h
+01:06:58 009:009 > h1
+01:06:58 009:008 > <h1></h1>
+01:07:01 009:012 > t
+01:07:01 009:013 > te
+01:07:01 009:014 > tes
+01:07:01 009:015 > test
+
+01:07:09 006:004 > l
+01:07:10 006:005 > li
+01:07:10 006:006 > lin
+01:07:10 006:007 > link
+01:07:11 006:004 > <link rel="stylesheet" href="style.css">
+01:07:22 006:033 > .
+01:07:23 006:034 > ./
+01:07:24 006:035 > css/
+01:07:25 006:039 > styles.css
+
+01:07:31 012:004 > m
+01:07:31 012:005 > ma
+01:07:31 012:006 > mai
+01:07:31 012:007 > main
+01:07:31 012:004 > <main></main>
+
+01:07:33 013:008 > a
+01:07:33 013:009 > ar
+01:07:33 013:010 > art
+01:07:33 013:011 > arti
+01:07:34 013:012 > artic
+01:07:34 013:013 > articl
+01:07:34 013:014 > article
+01:07:35 013:008 > <article></article>
+
+01:07:36 014:012 > h
+01:07:36 014:013 > h2
+01:07:37 014:012 > <h2></h2>
+01:07:40 014:016 > a
+01:07:40 014:017 > ar
+01:07:40 014:018 > art
+01:07:40 014:019 > arti
+01:07:40 014:020 > artik
+
+01:07:43 015:012 > p
+01:07:44 015:012 > <p></p>
+01:07:45 015:015 > l
+01:07:45 015:016 > lo
+01:07:46 015:017 > lor
+01:07:46 015:018 > lore
+01:07:46 015:019 > lorem
+01:07:46 015:020 > lorem1
+01:07:46 015:021 > lorem12
+01:07:47 015:015 > Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, eligendi? Quo, provident.
+01:07:59 017:000 > <article>
+            <h2>artik</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, eligendi? Quo, provident.</p>
+        </article>
+01:08:01 021:008 > <article>
+            <h2>artik</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, eligendi? Quo, provident.</p>
+        </article>
+01:08:08 025:000 > <article>
+            <h2>artik</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, eligendi? Quo, provident.</p>
+        </article>
+01:08:09 029:000 > <article>
+            <h2>artik</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, eligendi? Quo, provident.</p>
+        </article>
+01:08:19 Document switched to: c:\Users\johan\OneDrive\Dokument\Webbuppgifter\webb_demo_3\css\styles.css
+----------------------------------------
+01:08:22 Document switched to: c:\Users\johan\OneDrive\Dokument\Webbuppgifter\webb_demo_3\index.html
+----------------------------------------
